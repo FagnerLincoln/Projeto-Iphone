@@ -20,6 +20,7 @@ ul {
     gap: 100px;
     list-style: none;
     margin-left: 50px;
+    cursor: pointer;
 
 }
 
